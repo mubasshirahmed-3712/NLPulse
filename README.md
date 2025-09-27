@@ -17,7 +17,7 @@
 
 ---
 ## 📌 Demo
-![NLPulse Demo](static\UI_OverView.png)
+![NLPulse Demo](./static/UI_OverView.png)
 
 ---
 
